@@ -19,6 +19,13 @@ I'm a second-year Information Technology student at National University (MOA) an
 - **Cybersecurity:** Exploring network security fundamentals and learning how to build more resilient systems.
 - **Systems & Administration:** Writing object-oriented desktop GUIs in Apache NetBeans and managing backend stability for shared multiplayer servers.
 
+### 🛡️ Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ### 🎧 Music Activity
 <p>
   <a href="https://open.spotify.com/user/eewx939gv267y5pra0i06i6uv?si=83ea8a15a5f64c34" target="_blank">
@@ -26,6 +33,16 @@ I'm a second-year Information Technology student at National University (MOA) an
   </a>
   <a href="https://www.last.fm/user/cymricc" target="_blank">
     <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm" />
+  </a>
+</p>
+
+### 📫 Let's Connect
+<p>
+  <a href="mailto:dinglecarlosebastian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlo-dingle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
