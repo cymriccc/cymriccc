@@ -30,4 +30,4 @@ I'm a second-year Information Technology student at National University (MOA) an
 </p>
 
 ### 📈 GitHub Stats
-[![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cymriccc&show_icons=true&bg_color=0f172a&text_color=e2e8f0&icon_color=38bdf8&title_color=38bdf8&hide_border=true)](https://github.com/cymriccc)
+[![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cymriccc&show_icons=true&bg_color=0f172a&text_color=e2e8f0&icon_color=38bdf8&title_color=38bdf8&hide_border=true&v=1)](https://github.com/cymriccc)
