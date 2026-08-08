@@ -50,6 +50,11 @@ I'm a second-year Information Technology student at National University (MOA) an
 </p>
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="stats.svg" alt="Carlo's GitHub Stats" />
-</p>
+
+[![Cymric's GitHub Stats](https://github-stats-extended.vercel.app/api?username=cymriccc&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+[![Cymric's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=cymriccc&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+### Featured Project
+
+[![Portfolio Management System](https://github-stats-extended.vercel.app/api/pin/?username=cymriccc&repo=Portfolio-Management-System&theme=tokyonight&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
