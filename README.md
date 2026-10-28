@@ -1,60 +1,115 @@
-# 🧊 Hi, I'm Carlo
+<h1 align="center">Hi, I'm Carlo 🎴</h1>
 
-**IT Student | Web Development | Cybersecurity Enthusiast**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=IT+Student+%40+NU+MOA;ITS+Council+--+Secretary;Web+Dev+%2B+Secure+Coding;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a second-year Information Technology student at National University (MOA) and the Secretary of the IT Student Council. My foundation is in Mobile and Web Applications, but I'm currently shifting my focus toward cybersecurity, secure coding, and threat modeling. 
+<p align="center">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNOME-4A154B?style=for-the-badge&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+### <sub>whoami</sub>
+
+```text
+OS       Fedora Linux 41 (Workstation)
+Kernel   6.11 (Linux)
+DE/WM    GNOME (Wayland)
+Terminal Ptyxis
+Shell    bash / zsh
+Editor   VS Code · Apache NetBeans
+
+School   National University MOA
+Course   BS Information Technology (MWA), 2nd Year
+Role     IT Student Council — Secretary
+```
+
+<p align="center">
+  <img src="https://via.placeholder.com/28x28/0f172a/0f172a.png" width="28" height="28" alt="Slate Dark" />
+  <img src="https://via.placeholder.com/28x28/1e293b/1e293b.png" width="28" height="28" alt="Slate Medium" />
+  <img src="https://via.placeholder.com/28x28/334155/334155.png" width="28" height="28" alt="Slate Light" />
+  <img src="https://via.placeholder.com/28x28/38bdf8/38bdf8.png" width="28" height="28" alt="Ice Blue Accent" />
+  <img src="https://via.placeholder.com/28x28/7dd3fc/7dd3fc.png" width="28" height="28" alt="Ice Light" />
+  <img src="https://via.placeholder.com/28x28/bae6fd/bae6fd.png" width="28" height="28" alt="Ice Soft" />
+  <img src="https://via.placeholder.com/28x28/e0f2fe/e0f2fe.png" width="28" height="28" alt="Ice Highlight" />
+</p>
+
+---
+
+### 🌐 About Me
+I'm an IT student specializing in Mobile and Web Applications with a background in object-oriented desktop software development, backend databases, and modern frontend tools. I am actively deepening my knowledge in system administration, containerization, web application security, and threat modeling.
+
+---
 
 ### 💻 Tech Stack & Tools
+
+**Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🚀 Current Projects & Focus
-- **Active Development:** Currently working on building **QHOP** (a queueing management system for a school requirement!).
-- **Web Development:** Building interactive apps, like a custom geometric tessellation generator using React and TypeScript.
-- **Cybersecurity:** Exploring network security fundamentals and learning how to build more resilient systems.
-- **Systems & Administration:** Writing object-oriented desktop GUIs in Apache NetBeans and managing backend stability for shared multiplayer servers.
-
-### 🛡️ Currently Learning
+**Databases, Build Tools & Environments**
 <p>
-  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Security-2C3E50?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🎧 Music Activity
+---
+
+### 🛡️ Security & Labs
 <p>
-  <a href="https://open.spotify.com/user/eewx939gv267y5pra0i06i6uv?si=83ea8a15a5f64c34" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-  <a href="https://www.last.fm/user/cymricc" target="_blank">
-    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm" />
-  </a>
+  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/OWASP_Juice_Shop-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Juice Shop" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
-### 📫 Let's Connect
-<p>
-  <a href="mailto:dinglecarlosebastian@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlo-dingle/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+---
+
+### 🚀 Projects & Focus
+- **Desktop Application:** **QHop Management System** — A queue management application engineered for university administration environments using Java Swing, Maven, and MySQL.
+- **Web Development:** **Math Mosaic** — Interactive geometric tessellation pattern generator built with React, TypeScript, and Tailwind CSS.
+- **Cybersecurity & Systems:** Hands-on experience setting up local virtualization labs, configuring Docker containers, evaluating web vulnerabilities, and exploring Linux desktop administration.
+
+---
+
+### 📌 Featured Project
+
+[![QHop Management System](https://github-readme-stats.vercel.app/api/pin/?username=cymriccc&repo=qhop-management-system&theme=tokyonight&show_icons=true)](https://github.com/cymriccc/qhop-management-system)
+
+---
 
 ### 📈 GitHub Stats
 
-[![Cymric's GitHub Stats](https://github-stats-extended.vercel.app/api?username=cymriccc&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cymriccc&show_icons=true&theme=tokyonight" alt="Carlo's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cymriccc&layout=compact&theme=tokyonight" alt="Carlo's Top Languages" />
+</p>
 
-[![Cymric's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=cymriccc&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+---
 
-### Featured Project
-
-[![Portfolio Management System](https://github-stats-extended.vercel.app/api/pin/?username=cymriccc&repo=Portfolio-Management-System&theme=tokyonight&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+### 📫 Connect
+<p>
+  <a href="mailto:dinglecarlosebastian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlo-dingle/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
