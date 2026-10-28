@@ -18,16 +18,16 @@
 ### <sub>whoami</sub>
 
 ```text
-OS       Fedora Linux 41 (Workstation)
-Kernel   6.11 (Linux)
-DE/WM    GNOME (Wayland)
-Terminal Ptyxis
-Shell    bash / zsh
-Editor   VS Code · Apache NetBeans
+OS         ·  Fedora Linux 41 (Workstation)
+Kernel     ·  6.11 (Linux)
+DE/WM      ·  GNOME (Wayland)
+Terminal   ·  Ptyxis
+Shell      ·  bash / zsh
+Editor     ·  VS Code · Apache NetBeans
 
-School   National University MOA
-Course   BS Information Technology (MWA), 2nd Year
-Role     IT Student Council — Secretary
+School     ·  National University MOA
+Course     ·  BS Information Technology (MWA), 2nd Year
+Role       ·  IT Student Council — Secretary
 ```
 
 <p align="center">
