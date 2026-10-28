@@ -90,16 +90,18 @@ I'm an IT student specializing in Mobile and Web Applications with a background 
 
 ### 📌 Featured Project
 
-[![QHop Management System](https://github-readme-stats.vercel.app/api/pin/?username=cymriccc&repo=qhop-management-system&theme=tokyonight&show_icons=true)](https://github.com/cymriccc/qhop-management-system)
+[![QHop Management System](https://github-readme-stats.vercel.app/api/pin/?username=cymriccc&repo=qhop-management-system&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&show_icons=true)](https://github.com/cymriccc/qhop-management-system)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cymriccc&show_icons=true&theme=tokyonight" alt="Carlo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cymriccc&background=0F172A&border=1E293B&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=64748B" alt="Carlo's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cymriccc&layout=compact&theme=tokyonight" alt="Carlo's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cymriccc&show_icons=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b" alt="Carlo's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cymriccc&layout=compact&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b" alt="Carlo's Top Languages" />
 </p>
 
 ---
