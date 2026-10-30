@@ -18,16 +18,19 @@
 ### <sub>whoami</sub>
 
 ```text
-OS         ·  Fedora Linux 41 (Workstation)
-Kernel     ·  6.11 (Linux)
-DE/WM      ·  GNOME (Wayland)
-Terminal   ·  Ptyxis
-Shell      ·  bash / zsh
-Editor     ·  VS Code · Apache NetBeans
+cymric@cymric-fedora
+--------------------
+OS          •  Fedora Linux 44 (Workstation Edition)
+Host        •  Nitro ANV15-51
+Kernel      •  Linux 7.2.10
+DE / WM     •  GNOME 50.5 (Wayland)
+Terminal    •  Ptyxis 50.1
+Shell       •  bash 5.3.9
+Editor      •  VS Code · Apache NetBeans
 
-School     ·  National University MOA
-Course     ·  BS Information Technology (MWA), 2nd Year
-Role       ·  IT Student Council — Secretary
+School      •  National University MOA
+Course      •  BS Information Technology (MWA), 2nd Year
+Role        •  IT Student Council — Secretary
 ```
 
 <p align="center">
