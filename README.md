@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/GNOME-4A154B?style=for-the-badge&logo=gnome&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
@@ -55,6 +56,7 @@ I'm an IT student specializing in Mobile and Web Applications with a background 
 **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -86,7 +88,9 @@ I'm an IT student specializing in Mobile and Web Applications with a background 
 
 ### 🚀 Projects & Focus
 - **Desktop Application:** **QHop Management System** — A queue management application engineered for university administration environments using Java Swing, Maven, and MySQL.
+
 - **Web Development:** **Math Mosaic** — Interactive geometric tessellation pattern generator built with React, TypeScript, and Tailwind CSS.
+
 - **Cybersecurity & Systems:** Hands-on experience setting up local virtualization labs, configuring Docker containers, evaluating web vulnerabilities, and exploring Linux desktop administration.
 
 ---
