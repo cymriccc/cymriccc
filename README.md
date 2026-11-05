@@ -96,10 +96,10 @@ I'm an IT student specializing in Mobile and Web Applications with a strong back
 
 <p align="center">
   <a href="https://github.com/cymriccc/sec-scan">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cymriccc&repo=sec-scan&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&show_icons=true" alt="sec-scan" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=cymriccc&repo=sec-scan&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&v=1" alt="sec-scan" />
   </a>
   <a href="https://github.com/cymriccc/qhop-management-system">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cymriccc&repo=qhop-management-system&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&show_icons=true" alt="Q-Hop Management System" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=cymriccc&repo=qhop-management-system&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&v=1" alt="qhop-management-system" />
   </a>
 </p>
 
